@@ -1,0 +1,28 @@
+{
+  "name": "addressbooker",
+  "version": "0.1.0",
+  "description": "User-configurable web data collector and address book.",
+  "main": "addressbooker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/publicdomain/addressbooker.git"
+  },
+  "keywords": [
+    "adress",
+    "book",
+    "web",
+    "collector",
+    "adressbooker",
+    "donationcoder",
+    "sphere"
+  ],
+  "author": "publicdomainvic",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/publicdomain/addressbooker/issues"
+  },
+  "homepage": "https://github.com/publicdomain/addressbooker#readme"
+}
