@@ -15,7 +15,7 @@ npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
 
 Clone:
 
-git clone 
+git clone https://github.com/publicdomain/addressbooker.git
 
 =====
 
